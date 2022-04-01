@@ -1,4 +1,4 @@
-# Leetcode-reverse-string
+# Leetcode
 class Solution {
     public void reverseString(char[] s) {
       int low = 0;
